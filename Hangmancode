@@ -57,7 +57,7 @@ stages = ['''
 =========
 ''']
 
-word_list = ["people", "baboon", "robot", "apple", "turtle"]
+word_list = ["people", "baboon", "robot", "apple", "turtle", "boat"]
 chosen_word = random.choice(word_list)
 
 #Create a variable called 'lives' to keep track of the number of lives left. 
